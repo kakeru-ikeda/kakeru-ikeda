@@ -1,5 +1,3 @@
-# kakeru-ikeda
-
 <div align="center">
 
 <img src="./profile-summary-card-output/megumi/0-profile-details.svg" alt="Profile Details" width="683" />
